@@ -6,7 +6,9 @@ Bootstrap based template that could be customized for a small business. This tem
 
 **Student ID:** 000755771
 
-**Link to Repo:**
+**Link to Repo:** https://github.com/swappnasama/cpnt201-a1-bootstrap-template.git
+
+**Link to site:** https://swappnasama.github.io/cpnt201-a1-bootstrap-template/
 
 # Author & License
 
